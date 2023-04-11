@@ -9,11 +9,12 @@
         <label for="exampleInputLastName1" class="form-label">Last Name</label>
         <input type="lastname" class="form-control" id="exampleInputLastName1" placeholder="Last Name">
     </div>
+
     <div class="mb-3">
-        <label for="exampleInputDateOfBirth1" class="form-label">Date of Birth</label>
         <!-- <label for="datepicker"></label> -->
-        <input type="text" id="datepicker" class="form-control" type="text" placeholder="mm/dd/yyyy">
-    </div>
+        <label for="birthdate" class="form-label">Date of Birth</label>
+        <input type="datepicker" class="form-control" id="datepicker" placeholder="mm/dd/yyyy">
+  
     <!-- <p>Date: <input type="text" id="datepicker"></p> -->
     <div class="mb-3">
         <label for="exampleInputSpecialty" class="form-label">Specialty</label>

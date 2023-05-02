@@ -1,5 +1,7 @@
 <?php require_once 'includes/header.php' ?>
 
+<h1 style="text-align: center";>REGISTRATION FORM</h1>
+
 <div class="container"> 
     <form  method="GET" action="action_page.php">
 

@@ -3,11 +3,11 @@
 <h1 style="text-align: center";>YOU HAVE BEEN REGISTERED</h1>
 
 <?php 
-    $firstname = $_GET['firstname'];
-    $lastname = $_GET['lname'];
-    $birthdate = $_GET['birthdate'];
-    $jobs = $_GET['jobs'];
-    $email = $_GET['email'];
+    $firstname = $_POST['firstname'];
+    $lastname = $_POST['lname'];
+    $birthdate = $_POST['birthdate'];
+    $jobs = $_POST['jobs'];
+    $email = $_POST['email'];
 
 
 ?>

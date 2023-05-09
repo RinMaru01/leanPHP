@@ -3,7 +3,7 @@
 <h1 style="text-align: center";>REGISTRATION FORM</h1>
 
 <div class="container"> 
-    <form  method="GET" action="action_page.php">
+    <form  method="POST" action="action_page.php">
 
     <div class="mb-3">
         <label for="firstname" class="form-label">First Name</label>

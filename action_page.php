@@ -2,17 +2,6 @@
 
 <h1 style="text-align: center";>YOU HAVE BEEN REGISTERED</h1>
 
-<?php 
-    // echo $_GET['firstname'];
-
-    // echo $_GET['lname'];
-    // echo $_GET['birthdate'];
-    // echo $_GET['jobs'];
-    // echo $_GET['email'];
-
-
-?>
-
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title"></h5>

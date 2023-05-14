@@ -21,9 +21,9 @@
   
     <!-- <p>Date: <input type="text" id="datepicker"></p> -->
     <div class="mb-3">
-        <label for="exampleInputSpecialty" class="form-label">Specialty</label>
-        <select class="form-select" aria-label="Default select example" name="jobs">
-        <option selected>Specialty</option>
+    <label for="Specialty" class="form-label">Specialty</label>
+    <select class="form-select" aria-label="Default select example" name="jobs" placeholder="Specialty">
+        <option selected disabled value="0">Specialty</option>
         <option value="1">Database Admin</option>
         <option value="2">Software Developer</option>
         <option value="3">Web Administrator</option>
